@@ -1,4 +1,4 @@
-import Link from "next/link";
+import "@/assets/scss/style.scss"
 
 export const metadata = {
   title: "Next.js",
