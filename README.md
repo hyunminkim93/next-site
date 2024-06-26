@@ -2,7 +2,9 @@
 
 Next.js를 사용하여 포트폴리오 만들기 입니다.
 
-## 프로젝트 구조
+![alt text](../next-site/src/assets/img/main.png)
+
+## 구조
 
 프로젝트 디렉토리 구조는 다음과 같습니다.
 
@@ -82,7 +84,7 @@ npm run dev
 
 - **About 페이지**: 레이아웃 및 페이지 구성
 - **컴포넌트**: Contact, Footer, Header, Intro, Port, Site, Skill, Skip 등 다양한 컴포넌트 포함
-- **에셋 관리**: 이미지와 SCSS 파일 관리
+- **assets 관리**: 이미지와 SCSS 파일 관리
 
 ## 코드 설명
 
