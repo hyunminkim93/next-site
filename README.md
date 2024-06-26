@@ -72,7 +72,7 @@ npm i gsap sass @studio-freight/lenis
 
 ### 개발 서버 실행
 
-다음 명령어를 사용하여 개발 서버를 실행합니다:
+다음 명령어를 사용하여 개발 서버를 실행합니다.
 
 ```bash
 npm run dev
