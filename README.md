@@ -55,7 +55,7 @@ next-site
 
 ### 최신 버전의 Next.js, React, React-DOM 설치
 
-다음 명령어를 사용하여 최신 버전의 Next.js, React, React-DOM을 설치합니다:
+다음 명령어를 사용하여 최신 버전의 Next.js, React, React-DOM을 설치합니다.
 
 ```bash
 npm install next@latest react@latest react-dom@latest
@@ -63,7 +63,7 @@ npm install next@latest react@latest react-dom@latest
 
 ### 추가 의존성 설치
 
-다음 명령어를 사용하여 필요한 패키지를 설치합니다:
+다음 명령어를 사용하여 필요한 패키지를 설치합니다.
 
 ```bash
 npm install
@@ -79,12 +79,6 @@ npm run dev
 ```
 
 브라우저에서 `http://localhost:3000`을 열어 확인합니다.
-
-## 주요 기능
-
-- **About 페이지**: 레이아웃 및 페이지 구성
-- **컴포넌트**: Contact, Footer, Header, Intro, Port, Site, Skill, Skip 등 다양한 컴포넌트 포함
-- **assets 관리**: 이미지와 SCSS 파일 관리
 
 ## 코드 설명
 
