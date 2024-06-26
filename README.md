@@ -1,8 +1,8 @@
-# 넥스트.js를 이용한 포트폴리오
+# Next.js를 이용한 포트폴리오
 
 Next.js를 사용하여 포트폴리오 만들기 입니다.
 
-![alt text](../next-site/src/assets/img/main.png)
+![alt text](./src/assets/img/main.png)
 
 ## 구조
 
